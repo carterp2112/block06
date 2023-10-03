@@ -1,0 +1,33 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+header {
+    color: teal;
+}
+
+.subtitle {
+    border: 2px solid black;
+    background-color: beige;
+    margin-top: 5px;
+    display: inline-block
+}
+
+.Line2 {
+    display: block;
+}
+
+.block1 {
+    margin-top: 10px;
+    display: inline-block;
+    margin-bottom: 5px;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: lightgrey;
+}
+
+aside {
+    margin-top: 10px;   
+    margin-bottom: 50px;
+}
